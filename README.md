@@ -17,4 +17,4 @@ TECH SKILLS:
 • ReactJS
 • NextJS
 
-I like working with Styled-Components Development and GitFlow.
+I like working with Emotion JS Development and GitFlow.
