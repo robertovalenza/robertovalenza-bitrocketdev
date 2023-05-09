@@ -1,5 +1,5 @@
 # robertovalenza-bitrocketdev
-I'm Front End Javascript Developer with 5 months of experience in ReactJS development.
+I'm Front End Javascript Developer with 7 months of experience in ReactJS development.
 
 Since I was 14 years old I started producing music, and this helped me to be a creative person, at the age of 16 years old I wrote my first code in school and since that day I was amazed by programming, so I started buying online courses and books about HTML, CSS, Javascript and Design.
 
