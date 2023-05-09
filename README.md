@@ -16,6 +16,5 @@ TECH SKILLS:
 • TypeScript
 • ReactJS
 • NextJS
-• Redux
 
 I like working with Styled-Components Development and GitFlow.
